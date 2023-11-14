@@ -5,9 +5,6 @@
 - Olá, sou formado em  Engenharia de Controle e Automação, 
 trabalho com desenvolvimento Android Nativo / **Software Engineer**. I love technology :blue_heart:  
 - :eyes: Interessado em imergir cada vez mais nessa comunidade tech.
-- :seedling::books::computer: Atualmente estou aprendendo:
-
-  **Linux || Kotlin || JAVA || SQLite || TDD || Lifecycle || Clean Architecture || MVVM**
   
  - :revolving_hearts: Estou procurando colaborar em tudo que eu puder
   
